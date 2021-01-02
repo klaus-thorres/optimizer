@@ -21,3 +21,6 @@ These software versions are known to work:
 * Install and configure PHP and the Webserver.
 * Download the project folder by cloning it from GitHub.
 * Make the project folder accessible for the web server.
+
+## Contact
+If you have any question, just drop a message at thorres [at] brothersofgrey [dot] net.
