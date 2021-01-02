@@ -11,3 +11,9 @@ This work is provided unter the terms of the MIT licence. Please take a look at 
 ### Constraints of the algorithm
  * Payload of vehicles.
  * Maximum number of goods.
+
+## Technologie
+These software versions are known to work:
+* PHP 7.4
+* Apache 2.4
+
