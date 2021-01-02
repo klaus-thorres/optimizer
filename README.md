@@ -23,4 +23,4 @@ These software versions are known to work:
 * Make the project folder accessible for the web server.
 
 ## Contact
-If you have any question, just drop a message at thorres [at] brothersofgrey [dot] net.
+If you have any questions, just drop a message at thorres [at] brothersofgrey [dot] net.
