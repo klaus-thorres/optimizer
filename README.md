@@ -17,3 +17,7 @@ These software versions are known to work:
 * PHP 7.4
 * Apache 2.4
 
+## Installation
+* Install and configure PHP and the Webserver.
+* Download the project folder by cloning it from GitHub.
+* Make the project folder accessible for the web server.
