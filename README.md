@@ -22,7 +22,14 @@ These software versions are known to work:
 * Download the project folder by cloning it from GitHub.
 * Make the project folder accessible for the web server.
 
-## Sample output
+## Using 
+This section describes, how to use the software.
+
+### Provide information
+
+### Calculate optimal loading
+
+### Sample output
 ![Sample output of the application](sample_output.png)
 
 ## Contact
