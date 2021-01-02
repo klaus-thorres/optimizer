@@ -22,5 +22,8 @@ These software versions are known to work:
 * Download the project folder by cloning it from GitHub.
 * Make the project folder accessible for the web server.
 
+## Sample output
+![Sample output of the application](sample_output.png)
+
 ## Contact
 If you have any questions, just drop a message at thorres [at] brothersofgrey [dot] net.
