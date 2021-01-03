@@ -28,7 +28,20 @@ This section describes, how to use the software.
 First of all, please make sure that JavaScript is activated in your web browser.
 ### Provide information
 
+The data is transferred to the software via two files. Information about the goods including weight, use value and demands are written in the `data_hardware.csv` file. Ones about the maximum payload and the weight of the drivers are stored in the `data_van.php` file. Every non-integer has to be written with a dot as a decimal separator.
 
+```
+<name>;<demand>;<weight of one unit in kg>;<use value>
+[…]
+```
+
+```
+<?php
+capacity_max = <maximum payload in kg>;
+capacity_driver = array(<weight driver 1>[, <weight driver 2>[, …]]);
+```
+
+To check the provided information after changes were made you can press the *`Reload data`* button.
 
 ### Calculate optimal loading
 
