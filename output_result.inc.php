@@ -1,8 +1,8 @@
-<h1>Results</h1>
+<h2>Results</h2>
 
 <?php
 for ($van_index = 0; $van_index < count($this->_['van'][1]); $van_index++):
-    printf('<h2>Van %1$u</h2>', $van_index + 1);
+    printf('<h3>Van %1$u</h3>', $van_index + 1);
 
 ?>
 
@@ -59,7 +59,7 @@ for ($van_index = 0; $van_index < count($this->_['van'][1]); $van_index++):
 
 endfor;
 ?>
-<h2>Total</h2>
+<h3>Total</h3>
 
 <table>
     <tr>
@@ -92,6 +92,3 @@ foreach($this->_['hardware'] as $unit) {
 <ul>
     <li>Use value: <?= number_format($this->_['van'][6], 0, '.', ',') ?></li>
 </ul>
-
-
-

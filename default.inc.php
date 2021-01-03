@@ -36,6 +36,7 @@
         </style>
     </head>
     <body onload="display('check_data')">
+        <h1>Optimizer</h1>
         <noscript>Please activate Javascript.</noscript>
         <div id="check_data">
         </div>

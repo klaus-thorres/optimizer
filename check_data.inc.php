@@ -1,4 +1,4 @@
-<h1>Provided data</h1>
+<h2>Provided data</h2>
 
 <?php
 
