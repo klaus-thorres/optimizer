@@ -25,7 +25,10 @@ These software versions are known to work:
 ## Using 
 This section describes, how to use the software.
 
+First of all, please make sure that JavaScript is activated in your web browser.
 ### Provide information
+
+
 
 ### Calculate optimal loading
 
