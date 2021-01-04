@@ -10,7 +10,9 @@ This work is provided unter the terms of the MIT licence. Please take a look at 
 * Provide data using a csv file.
 ### Constraints of the algorithm
  * Payload of vehicles.
- * Maximum number of goods.
+ * Demand of the goods.
+### Chosen algorythm
+Due to the linear optimization problem, George Dantzig's simplex algorithm is chosen including a round down at the end of the process. This produces values which are found to be optimal.
 
 ## Technologie
 These software versions are known to work:
