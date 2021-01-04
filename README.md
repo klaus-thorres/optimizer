@@ -14,7 +14,7 @@ This work is provided unter the terms of the MIT licence. Please take a look at 
 ### Chosen algorithm
 Due to the linear optimization problem, George Dantzig's simplex algorithm is chosen including a round down at the end of the process. This produces values which are found to be optimal.
 
-## Technologie
+## Technology
 These software versions are known to work:
 * PHP 7.4
 * Apache 2.4
