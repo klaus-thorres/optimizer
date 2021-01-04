@@ -11,7 +11,7 @@ This work is provided unter the terms of the MIT licence. Please take a look at 
 ### Constraints of the algorithm
  * Payload of vehicles.
  * Demand of the goods.
-### Chosen algorythm
+### Chosen algorithm
 Due to the linear optimization problem, George Dantzig's simplex algorithm is chosen including a round down at the end of the process. This produces values which are found to be optimal.
 
 ## Technologie
