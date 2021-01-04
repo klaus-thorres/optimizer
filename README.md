@@ -37,7 +37,7 @@ The `data_hardware.csv` file has the following structure with one hardware name 
 <name>;<demand>;<weight of one unit in kg>;<use value>
 […]
 ```
-The `data_van.php` file is an ordinary PHP file. While the maximum capacity is stored in an integer variable, the weighing values of the drivers are written to an array. The number of array elements also defines the number of vehicles used.
+The `data_van.php` file is an ordinary PHP file. While the maximum capacity is stored as a number, the weight values of the drivers are written to an array. The number of array elements also defines the number of vehicles used.
 
 ```
 <?php
