@@ -47,7 +47,7 @@ Examples of both files are stored in the application folder.
 To check the provided information after changes were made you can press the *`Reload data`* button.
 
 ### Calculate optimal loading
-
+To calculate the result just press the *`Process data`* button.
 ### Sample output
 ![Sample output of the application](sample_output.png)
 
